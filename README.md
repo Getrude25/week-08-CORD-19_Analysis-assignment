@@ -47,3 +47,14 @@ Getruda Vitus
 
 ## 📄 License ##
 This project is for educational purposes.
+
+## Metadata csv ##
+```
+## Dataset
+
+The dataset `metadata.csv` (≈1.6 GB) is too large to be hosted on GitHub.  
+
+📥 [Download metadata.csv from Google Drive]([https://drive.google.com/uc?export=download&id=YOUR_FILE_ID](https://drive.google.com/uc?export=download&id=14U2OxuenpCP3hOMN7diUhftyBsr0AwDa)
+
+After downloading, place the file inside the `data/` directory before running the analysis.
+```
